@@ -12,3 +12,4 @@ SUPPORTED_LANGUAGES = [
     ".ts",
     ".java"
 ]
+REPOSITORIES_DIR.mkdir(exist_ok=True)
